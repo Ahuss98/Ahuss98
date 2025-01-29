@@ -1,4 +1,12 @@
-# 🏄‍♂️ Ahmed Hussain
+
+<p align="center">
+  <a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ahmed%20Hussain%20;Ahuss98%20;Software%20Ninja&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+<p align="center">
+  <a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack%20software%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 **`Digital Ninja (Developer)`**
 
