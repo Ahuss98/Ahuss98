@@ -82,4 +82,7 @@
   <h2>🌎 Portfolio</h2>
   📌 <a href="https://ahuss98.github.io/web-project/">Visit My Portfolio</a>
 </p>
+<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-hussain-122b33271/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+
+
 
