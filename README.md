@@ -78,11 +78,16 @@
 ---
 
 
+<h2 align="center" >🌎 Where to find me</h2>
 <p align="center">
-  <h2>🌎 Portfolio</h2>
-  📌 <a href="https://ahuss98.github.io/web-project/">Visit My Portfolio</a>
+  <a target="_blank" href="https://ahuss98.github.io/web-project/" style="display: inline-block;">
+    <img  src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/ahmed-hussain-122b33271/" style="display: inline-block;">
+    <img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
 </p>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-hussain-122b33271/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+
 
 
 
