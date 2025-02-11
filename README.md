@@ -15,8 +15,8 @@
 <p align="center">
   <h2 align="center">🚀 About Me</h2>
   <p align="center">💻 Full-stack developer chasing my software black belt, one step at a time. <br> </p>
-  <p align="center">  🔨 Passionate about **building scalable solutions**, solving problems, and mastering new technologies. <br></p>
-  <p align="center">🎯 Always **learning, adapting, and improving** in the ever-evolving tech landscape. <br></p>
+  <p align="center">  🔨 Passionate about building scalable solutions, solving problems, and mastering new technologies. <br></p>
+  <p align="center">🎯 Always learning, adapting, and improving in the ever-evolving tech landscape. <br></p>
 
   
 </p>
