@@ -54,9 +54,7 @@
 
 <h3 align="center">🔥 Streak Stats</h3>
 <p align="center">
-  <a href="https://github.com/Ahuss98/github-readme-streak-stats">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahuss98&theme=dark&hide_border=false"/>
-  </a>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahuss98&theme=dark&hide_border=false"/>
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
@@ -66,9 +64,7 @@
 
 <h3 align="center">🏆 Most Used Languages</h3>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahuss98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  </a>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahuss98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 <p align="center">
