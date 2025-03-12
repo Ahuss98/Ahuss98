@@ -52,7 +52,7 @@
 
 <h3 align="center">🔥 Streak Stats</h3>
 <p align="center">
-  <img href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahuss98&theme=black-ice" alt="GitHub Streak" /></img>
+  <img href="https://git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=Ahuss98&theme=black-ice" alt="GitHub Streak" /></img>
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
