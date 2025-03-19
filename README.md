@@ -6,7 +6,7 @@
 
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack%20Software%20Developer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack%20Software%20Developer;Always%20Learning%20New%20Things;Tech%20Consultant&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
